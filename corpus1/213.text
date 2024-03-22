@@ -1,0 +1,232 @@
+<SOURCE>https://www.thegazette.com/subject/news/five-senators-call-for-halt-of-dakota-access-pipeline-20161013</SOURCE>
+<TAGS>Dakota access pipeline culture</TAGS>
+Not a subscriber?Already a subscriber?Login HereManage Your AccountFrom Our WritersAdditional News LinksFrom Our WritersAdditional Sports LinksFrom Our ColumnistsAdditional Opinion LinksFrom Our WritersWASHINGTON — Five U.S. senators sent a letter to President Barack Obama Thursday asking that his administration halt construction of the Dakota Access pipeline proposed in Iowa and three other states until affected tribes are consulted and a full environmental review is conducted.
+Total Para: 2 <br />
+Long Para:2 <br />
+Long Pra Total: 14 <br />
+Total Para Total: 14<br />
+0
+#MidPoint#
+The letter was signed by Sens. Bernie Sanders, a Vermont independent, and Democrats Patrick Leahy of Vermont, Dianne Feinstein of California, Ben Cardin of Maryland and Ed Markey of Massachusetts.
+Total Para: 3 <br />
+Long Para:3 <br />
+Long Pra Total: 14 <br />
+Total Para Total: 14<br />
+0
+#MidPoint#
+“In light of the decision of the Court of Appeals for the D.C. Circuit to reject the Standing Rock Sioux Tribe’s request for a temporary halt to construction, the project’s current permits should be suspended and all construction stopped until a complete environmental and cultural review has been completed for the entire project,” the senators wrote.
+Total Para: 4 <br />
+Long Para:4 <br />
+Long Pra Total: 14 <br />
+Total Para Total: 14<br />
+0
+#MidPoint#
+Over the past several weeks, hundreds of Native American tribes have mobilized to draw attention to the pipeline’s encroachment on sacred lands, bringing about a groundswell of opposition to the project.
+Total Para: 5 <br />
+Long Para:5 <br />
+Long Pra Total: 14 <br />
+Total Para Total: 14<br />
+0
+#MidPoint#
+“Until there has been full and meaningful tribal consultation, all pipeline permits and easements should be revoked or denied,” the senators added in their joint letter.
+Total Para: 6 <br />
+Long Para:6 <br />
+Long Pra Total: 14 <br />
+Total Para Total: 14<br />
+0
+#MidPoint#
+The federal Department of Justice, U.S. Department of the Interior and Army Corps of Engineers previously requested that the pipeline company, Energy Transfer Partners, halt construction while an environmental and cultural impact review was conducted. The pipeline company declined to stop the project, and a federal circuit court gave a partial emergency injunction to halt construction.
+Total Para: 7 <br />
+Long Para:7 <br />
+Long Pra Total: 14 <br />
+Total Para Total: 14<br />
+0
+#MidPoint#
+After hearing the full injunction argument, the court denied the Standing Rock Sioux tribe’s request to halt the project, a ruling that was affirmed Saturday by a federal appeals court.
+Total Para: 8 <br />
+Long Para:8 <br />
+Long Pra Total: 14 <br />
+Total Para Total: 14<br />
+0
+#MidPoint#
+
+
+ARTICLE CONTINUES BELOW ADVERTISEMENT
+
+
+
+
+ items call for Marketing Module 
+ marketing module 
+
+
+
+
+
+ < p b s : macro name="contentimage" OutsideLink="https://store.thegazette.com/" RegularLink="/article/20180802/NEWS/180809930" imageLink=https://www.thegazette.com/storyimage/GA/20180802/NEWS/180809930/AR/0/0/AR-180809930.jpg mHeight="800" mWidth="800" > 
+
+
+
+
+
+
+						Great Golf Deals from Hunters Ridge
+					
+
+
+
+Don't miss out on these awesome golf deals in the heart of summer!
+
+
+ Shop Here 
+
+
+
+
+ marketing module 
+
+
+
+
+
+ < p b s : macro name="contentimage" OutsideLink="https://www.cedarrapids.org/marketafterdark" RegularLink="/article/20180801/NEWS/180729709" imageLink=https://www.thegazette.com/storyimage/GA/20180801/NEWS/180729709/AR/0/0/AR-180729709.jpg mHeight="800" mWidth="800" > 
+
+
+
+
+
+
+						Market After Dark
+					
+
+
+
+Market After Dark, August 25, 6:30 - 11:00 p.m., Downtown Cedar Rapids, Live Performances, Local Brews, Market Vendors, Free Event.
+
+
+ Learn More! 
+
+
+
+
+ marketing module 
+
+
+
+
+
+ < p b s : macro name="contentimage" OutsideLink="https://www.thegazette.com/kirk-ferentz-wins" RegularLink="/article/20180716/NEWS/180719746" imageLink=https://www.thegazette.com/storyimage/GA/20180716/NEWS/180719746/AR/0/0/AR-180719746.jpg mHeight="800" mWidth="800" > 
+
+
+
+
+
+
+						#KF143 Countdown
+					
+
+
+
+Marc Morehouse is ranking each of Kirk Ferentz's 143 wins at Iowa ahead of the 2018 season. Read his breakdown of each win, and look for new stories every day, starting on July 16.
+
+
+ Browse Rankings 
+
+
+
+
+
+
+
+
+
+< p b s : macro name="/Modules/marketing-module" Number="3" Profs="2647" ExternalLink="" Has_cta="ListField_Has_cta" >
+
+
+
+
+
+
+      var medrec1HB = [{
+        code: 'ad-medrec-1',
+        bids: [
+        { bidder: 'sovrn', params: {tagid: 369291} },
+        { bidder: 'ix', params: {siteId: (BrowserWidth >= mobileBreakpoint) ? 286804 : 286798 , size: [300, 250]}},
+        { bidder: 'rubicon', params: {accountId: 10844, siteId: 26348, zoneId: 577648} },
+        { bidder: 'aol', params: {placement: '4606145', network: '10809.1'} },
+        { bidder: "districtm", params: {placementId: 12024119} },
+        { bidder: 'pulsepoint', params: {cf: '300X250', cp: 560738, ct: 545184}},
+        { bidder: "rhythmone", params: { placementId: 67527}},
+        { bidder: "gumgum", params: {inSlot: 8409} }
+        ],
+        sizes: [300, 250]
+      }];
+      adUnits = adUnits.concat(medrec1HB);
+      function medrec1(){
+        googletag.cmd.push(function() {
+          medrec[1] = googletag.defineSlot(dfpId, [300, 250], "ad-medrec-1")
+            .setTargeting("position", "1")
+            .setCollapseEmptyDiv(true)
+            .setTargeting("keywords", keywords)
+            .setTargeting("accesslevel", accesslevel)
+            .addService(googletag.pubads());
+          googletag.pubads().enableSingleRequest();
+          googletag.enableServices();
+          googletag.display("ad-medrec-1");
+          if (accesslevel != "full"){
+            refreshBid("medrec", 1, medrec[1]);
+          } else {
+            googletag.pubads().refresh([medrec[1]]);
+          }
+        });
+      }
+      spinAccessLevel(medrec1);
+    
+
+
+
+
+
+The senators made their appeal Thursday for Obama to order the Army Corps to conduct a full review of the pipeline.
+Total Para: 9 <br />
+Long Para:9 <br />
+Long Pra Total: 14 <br />
+Total Para Total: 14<br />
+0
+#MidPoint#
+“If there is one profound lesson that indigenous people have taught us, it is that all of us as human beings are part of nature,” the senators wrote. “We will not survive if we continue to destroy nature.”
+Total Para: 10 <br />
+Long Para:10 <br />
+Long Pra Total: 14 <br />
+Total Para Total: 14<br />
+0
+#MidPoint#
+Meanwhile Thursday, representatives of the Standing Rock Sioux Tribe sent a separate letter to the president highlight 19 U.S. city governments that have passed resolutions or written letters opposing construction of the Dakota Access Pipeline.
+Total Para: 11 <br />
+Long Para:11 <br />
+Long Pra Total: 14 <br />
+Total Para Total: 14<br />
+0
+#MidPoint#
+To date, the Standing Rock Sioux Tribe has been joined by millions of supporters from across the nation and world, more than 300 tribes and several members of Congress in its fight to stop construction of the 1,134-mile pipeline which threatens the Tribe’s lands, waters and sacred places.
+Total Para: 12 <br />
+Long Para:12 <br />
+Long Pra Total: 14 <br />
+Total Para Total: 14<br />
+0
+#MidPoint#
+“The pipeline threatens the lives of more than 17 million people who get their water from the Missouri River,” said Dave Archambault II, chairman of the Standing Rock Sioux Tribe in North Dakota. “Millions stand with us in opposition to this destructive pipeline.”
+Total Para: 13 <br />
+Long Para:13 <br />
+Long Pra Total: 14 <br />
+Total Para Total: 14<br />
+0
+#MidPoint#
+According to tribal officials, the Obama administration has several options, including denying all easements for the pipeline or declaring sacred lands along the pipeline route to be a cultural district eligible for listing on the National Register of Historic Places. At a minimum, Archambault said, the tribe urges the administration to analyze all potential impacts of the proposed project, as well as alternatives to the proposal, to prepare a full environmental impact statement.
+Total Para: 14 <br />
+Long Para:14 <br />
+Long Pra Total: 14 <br />
+Total Para Total: 14<br />
+1
+#MidPoint#
+Dakota Access, a Texas-based company, is in the process of building an underground pipeline slated to span 1,134 miles from the Bakken oil field in northwestern North Dakota, through South Dakota and Iowa, to a distribution hub in Illinois. Dozens of protesters have been arrested in Iowa along the 346 miles of pipeline crossing 18 counties from northwest to southeast.WASHINGTON — Five U.S. senators sent a letter to President Barack Obama Thursday asking that his administration halt construction of the Dakota Access pipeline proposed in Iowa and three other states until affected tribes are consulted and a full environmental review is conducted.The letter was signed by Sens. Bernie Sanders, a Vermont independent, and Democrats Patrick Leahy of Vermont, Dianne Feinstein of California, Ben Cardin of Maryland and Ed Markey of Massachusetts.“In light of the decision of the Court of Appeals for the D.C. Circuit to reject the Standing Rock Sioux Tribe’s request for a temporary halt to construction, the project’s current permits should be suspended and all construction stopped until a complete environmental and cultural review has been completed for the entire project,” the senators wrote.Over the past several weeks, hundreds of Native American tribes have mobilized to draw attention to the pipeline’s encroachment on sacred lands, bringing about a groundswell of opposition to the project.“Until there has been full and meaningful tribal consultation, all pipeline permits and easements should be revoked or denied,” the senators added in their joint letter.The federal Department of Justice, U.S. Department of the Interior and Army Corps of Engineers previously requested that the pipeline company, Energy Transfer Partners, halt construction while an environmental and cultural impact review was conducted. The pipeline company declined to stop the project, and a federal circuit court gave a partial emergency injunction to halt construction.After hearing the full injunction argument, the court denied the Standing Rock Sioux tribe’s request to halt the project, a ruling that was affirmed Saturday by a federal appeals court.ARTICLE CONTINUES BELOW ADVERTISEMENTDon't miss out on these awesome golf deals in the heart of summer!Market After Dark, August 25, 6:30 - 11:00 p.m., Downtown Cedar Rapids, Live Performances, Local Brews, Market Vendors, Free Event.Marc Morehouse is ranking each of Kirk Ferentz's 143 wins at Iowa ahead of the 2018 season. Read his breakdown of each win, and look for new stories every day, starting on July 16.The senators made their appeal Thursday for Obama to order the Army Corps to conduct a full review of the pipeline.“If there is one profound lesson that indigenous people have taught us, it is that all of us as human beings are part of nature,” the senators wrote. “We will not survive if we continue to destroy nature.”Meanwhile Thursday, representatives of the Standing Rock Sioux Tribe sent a separate letter to the president highlight 19 U.S. city governments that have passed resolutions or written letters opposing construction of the Dakota Access Pipeline.To date, the Standing Rock Sioux Tribe has been joined by millions of supporters from across the nation and world, more than 300 tribes and several members of Congress in its fight to stop construction of the 1,134-mile pipeline which threatens the Tribe’s lands, waters and sacred places.“The pipeline threatens the lives of more than 17 million people who get their water from the Missouri River,” said Dave Archambault II, chairman of the Standing Rock Sioux Tribe in North Dakota. “Millions stand with us in opposition to this destructive pipeline.”According to tribal officials, the Obama administration has several options, including denying all easements for the pipeline or declaring sacred lands along the pipeline route to be a cultural district eligible for listing on the National Register of Historic Places. At a minimum, Archambault said, the tribe urges the administration to analyze all potential impacts of the proposed project, as well as alternatives to the proposal, to prepare a full environmental impact statement.Dakota Access, a Texas-based company, is in the process of building an underground pipeline slated to span 1,134 miles from the Bakken oil field in northwestern North Dakota, through South Dakota and Iowa, to a distribution hub in Illinois. Dozens of protesters have been arrested in Iowa along the 346 miles of pipeline crossing 18 counties from northwest to southeast.

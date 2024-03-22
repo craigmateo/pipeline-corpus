@@ -1,0 +1,13 @@
+import os
+path = os.getcwd()
+files = os.listdir(path)
+i = 1
+
+for file in files:
+    if i<10:
+        os.rename(file, "00" + str(i)+'.txt')
+    elif i<100:
+        os.rename(file, "0" + str(i)+'.txt') 
+    else:
+        os.rename(file, str(i)+'.text')
+    i = i+1

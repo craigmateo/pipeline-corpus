@@ -1,0 +1,57 @@
+<SOURCE>https://www.pressherald.com/2016/08/31/native-americans-protest-dakota-access-oil-pipeline/</SOURCE>
+<TAGS>Dakota access pipeline culture</TAGS>
+
+
+
+
+Sign in or Subscribe 
+See Offers
+
+
+
+
+An encampment in North Dakota near the Standing Rock Sioux reservation tries to halt construction on environmental grounds. ALONG THE CANNONBALL RIVER, N.D. — Long before Lewis and Clark paddled by, Native Americans built homes here at the confluence of the Cannonball and Missouri rivers, using the thick earth to guard against brutal winters and hard summer heat. They were called the Mandan people.Now, Native Americans are living here again. They sleep in teepees and nylon tents. They ride horses and drive quad cabs. They string banners between trees and, when they can get a signal, they post messages with hashtags such as ReZpectOurWater, NoDakotaAccess and NODAPL. For weeks, they have been arriving from scattered patches of the United States where the government put their ancestors to protest what they say is one indignity too many.It is called the Dakota Access oil pipeline and it could carry more than 400,000 barrels of crude oil a day from the Bakken region of western North Dakota across South Dakota and Iowa to connect with an existing pipeline in Illinois.CONSTRUCTION HALTEDThe 1,100-mile pipeline, which is estimated to cost $3.7 billion, is nearly halfway complete. But construction on a section that would sink beneath the Missouri River, just north of the reservation of the Standing Rock Sioux, has been halted under orders from the sheriff of Morton County, Kyle Kirchmeier. He said protesters, nearly 30 of whom have been arrested in recent weeks, were creating safety issues.Yet the protesters say they are creating something very different – resistance against what they say is a seemingly endless number of pipelines, export terminals and rail lines that would transport fossil fuels across or near tribal reservations, risking pollution to air, water and land.“Every time there’s a project of this magnitude, so the nation can benefit, there’s a cost,” Dave Archambault, the chairman of the Standing Rock Sioux, who was among those arrested, said. “That cost is born by tribal nations.”What began with a handful of natives establishing a prayer camp this spring has drawn international environmental groups and prompted Hollywood celebrities, including Susan Sarandon and Leonardo DiCaprio, to join them, whether here or in a protest this month in Washington, D.C., or on social media.Lawyers from Earthjustice are representing the Standing Rock Sioux in a legal effort to stop construction of the pipeline. They claim that the Army Corps of Engineers violated the National Historic Preservation Act when it approved the project and that a more stringent environmental review should be done. They say the pipeline and its construction would damage ancestral sites of the Standing Rock Sioux and put the tribe’s water supply at risk.FAST-TRACKED BY ENGINEERSLast week, nearly three dozen environmental groups wrote to President Obama, saying the Corps approved the project using a fast-track process that was inadequate given its size and the many sensitive areas it would cross.The Corps of Engineers argued in court in Washington last week that the Standing Rock Sioux and other parties had ample time to express concerns during a review process and that the pipeline was properly approved. Energy Transfer Partners, the Texas company building it, says the pipeline will increase energy independence and that it’s safer than rail transport.James A. Boasberg of United States District Court, said last week that he will rule no later than Sept. 9 on a request by the Standing Rock Sioux to stop construction and reconsider permits.The pipeline has met resistance elsewhere along its route, including from farmers in Iowa and property owners whose land is being taken by eminent domain. But nothing compares to what has taken hold here between the rivers.Nantinki Young, who goes by Tink, is a member of the Rosebud Sioux tribe from South Dakota; she runs the cook shack here. Winona, who did not give her last name, is Penobscot. She left Maine on Monday and drove 2,100 miles to put together a recycling program for the protest camp.And then there is Clyde Bellecourt. He is Ojibwe from Minnesota and helped found the American Indian Movement, active at Wounded Knee, S.D., in a famous 1973 standoff. He is 80 now.“My life is almost over, but there’s fresh energy here,” he said. “Save the children – that’s what this is all about.”
+
+Send questions/comments to the editors. 
+Here at MaineToday Media we value our readers and are committed to growing our community by encouraging you to add to the discussion. To ensure conscientious dialogue we have implemented a strict no-bullying policy. To participate, you must follow our Terms of Use. Click here to flag and report a comment that violates our terms of use.Enter your email and our daily headlines will be delivered to your inbox each morning.
+
+
+			
+			var mediaContent = "media\\:content,content";
+			
+      (function() {
+         var now = new Date();
+         var cookieName = new RegExp('MSPAN_Paywall_views_' + now.getMonth());
+         window.MSPAN = {
+              Paywall: {
+                  totalViews: function() {
+                      var cookies = document.cookie.split('; ');
+                      var val = 0;
+                      if (!cookieName.test(document.cookie)) {
+                          return 0;
+                      }
+                      for (var i = 0; i < cookies.length; i++) {
+                          if (cookieName.test(cookies[i])) {
+                              val = parseInt(cookies[i].split('=')[1]);
+                          }
+                      }
+                      return val;
+                  }
+              }
+          };
+      }());
+    
+
+
+         (function(){
+            "use strict";
+            if(/logout/.test(window.location.search)){
+               var date = new Date();
+               var cookieString = "MSPAN_Paywall_user=0; domain=."+document.location.host.replace(/^\w+\./, '')+"; path=/; expires=" + date.toGMTString();
+               var cookieString2 = "MSPAN_Paywall_user=0; domain="+document.location.host+"; path=/; expires=" + date.toGMTString();
+               date.setHours(date.getHours() - 1);
+               document.cookie = cookieString;
+               document.cookie = cookieString2;
+            }
+         }());
+    

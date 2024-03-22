@@ -1,0 +1,391 @@
+<SOURCE>https://news.artnet.com/art-world/standing-rock-cultural-desecration-640799</SOURCE>
+<TAGS>Dakota Access indigenous</TAGS>
+This is a fight about whose culture matters.
+Ben Davis, 
+																September 9, 2016
+The current, generation-defining confrontation in North Dakota, led by members of the Standing Rock Sioux Tribe, is about challenging racism and defending the earth. It is also notably about cultural rights.For those who have not been paying attention: The issue is the multi-billion-dollar, US Army Corps of Engineer-approved Dakota Access Pipeline Project, set to extend 1,172 miles across four states. In North Dakota, the pipeline was originally set to pass near the state capital, Bismarck, but was rerouted when it was deemed a potential threat to the water there.Instead, it was set to pass just a half-mile north of the Standing Rock Sioux Reservation, with Dakota and Lakota leaders saying—logically—that it threatens their own water resources.Opposition to the pipeline began in April, but has gathered historic momentum. As of this writing, the Sacred Stones protest camp is the most significant gathering of Native American tribal representatives in a century.People gather at an encampment by the Missouri River, where hundreds of people have gathered to join the Standing Rock Sioux Tribe’s protest against the construction of the Dakota Access Pipe (DAPL), near Cannon Ball, North Dakota, on September 3, 2016. Photo Robyn Beck/AFP/Getty Images.Supporters have responded to the call from as far away as Maine, Mississippi, and Hawaii. Indian Country has the story of Tlingit artist Doug Chilton, who trekked some 2,800 miles from Juneau, Alaska, to join the Sacred Stones encampment. The Broken Boxes podcast, normally devoted to contemporary indigenous art, has moving interviews from the camp:A resolution of the Standing Rock Sioux Tribe in opposition to the pipeline expresses longstanding concerns about public health and welfare, and the environmental threat, but it also states that “the horizontal direction drilling in the construction of the pipeline would destroy valuable cultural resources.”Such concerns were given greater force at the end of August when the tribe’s heritage expert, Tim Mentz, Sr., was allowed by an area rancher to survey land around the pipeline’s proposed route. On September 2, Mentz filed a declaration of his findings in United States District Court in Washington, DC, as part of the tribe’s attempt to halt construction under the National Historic Preservation Act.In his survey, Mentz says, he discovered “82 stone features and archaeological sites, including 27 burial sites.” Some extended into the area of the pipeline (which he was not directly allowed to access), while others were near enough to it to be endangered by construction. Five, he found, were of particular note.“Each of these sites,” he wrote, “carries great historic, religious, and cultural importance to the people of Standing Rock, other tribes of the Oceti Sakowin [Seven Fires Council], and me personally.”Among those adjacent to the pipeline route were a stone representation of the Big Dipper constellation (“Iyokaptan Tanka”), signifying the burial site of a leader of the highest rank, which Mentz describes as “one of the most significant archaeological finds in North Dakota in many years.” An associated “Grave and Stone Arc,” directly in the path of the pipeline, represents the handle of the Dipper. A formation of stones marking an initiation site for the “Strong Heart Society” (“Chante Tinza Wapaha”), an elite group of warriors, stood to be damaged by any construction.Members of the Standing Rock Sioux Tribe and their supporters opposed to the Dakota Access Pipeline (DAPL) confront bulldozers working on the new oil pipeline in an effort to make them stop, September 3, 2016, near Cannon Ball, North Dakota. Photo Robyn Beck/AFP/Getty Images.Immediately after the filing, early on Saturday morning—evidently ignoring both the weekend and the Labor Day holiday, and targeting the direct area referenced in Mentz’s filing—the company in charge of pipeline construction razed the terrain with bulldozers. Viral footage first aired on Democracy Now! shows protesters facing dogs and pepper spray at the site.Jan Hasselman, a lawyer for the tribe, has said that she believes that Mertz’s findings were used as a “roadmap” for what to target. Daniel Estrin, general council and legal director of the Waterkeeper Alliance, wrote that “in the 23 years that I have practiced and taught environmental law, I have never seen such an outrageous, unconscionable, and bad faith abuse of the legal process.”The company has responded to the charges by saying that it “is not destroying and has not destroyed any evidence or important historical sites.”Filed on Sunday, Mentz’s follow-up declaration cataloging the results is as heartbreaking as a document written in the dispassionate language of legal testimony can be.“Even without a formal damage assessment, my conclusion from what I have been able to see is that any site that was in the pipeline corridor has been destroyed,” Mentz writes. “Sites that are immediately adjacent the pipeline corridor are buried under berms of soil and vegetation that are as high as eight to ten feet. Anything under those berms is damaged if not destroyed.”Given the high likelihood that Native gravesites were destroyed, he now asks that an injunction be granted to allow them to rebury their dead.A court decision is expected today on whether the government will allow pipeline construction to go forward.Standing Rock has become symbolic far, far beyond North Dakota. The United Nations Permanent Forum on Indigenous Issues has called on the US to respect tribal rights. Environmental groups have weighed in on the side of protesters (or “protectors” as they prefer to be called). Even celebrities like Leonardo DiCaprio, Divergent star Shailene Woodley, and future Aquaman Jason Momoa have added voices of support.Anyone who cares about art and culture should add their own voices to the chorus. This is a fight about whose culture matters. It is a referendum on a society that would destroy its connection to the vital past in pursuit of a dying future.Share
+			By
+							Henri Neuendorf
+
+,
+							Nov 2, 2017
+						
+
+			By
+							Sarah Cascone
+
+,
+							Apr 10, 2017
+						
+
+			By
+							Ben Davis
+
+,
+							Sep 21, 2016
+						
+
+			By
+			
+,
+							Sep 11, 2016
+						
+
+			By
+			
+,
+							Sep 9, 2016
+						
+©2018 Artnet Worldwide Corporation. All Rights Reserved.var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0),
+    h = Math.max(document.documentElement.clientHeight, window.innerHeight || 0),
+    pagetype = document.querySelector('meta[property="og:type"]').getAttribute("content"),
+    pagetypeurl = document.URL,
+	pagetypeforce = pagetypeurl.substr(pagetypeurl.length - 3);
+    isnewsletter = pagetypeurl.includes("?page_1");
+w = pagetype + 20 * Math.round(w / 20), h = pagetype + 20 * Math.round(h / 20), googletag.cmd.push(function() {
+    googletag.pubads().setTargeting("width", w), googletag.pubads().setTargeting("height", h), 1 == isnewsletter && googletag.pubads().setTargeting("isfirstpage", ['Y', pagetypeforce] )
+});
+
+     (function defernl() {
+          if (window.jQuery) {
+               if ($(window).width() > 619) {
+setTimeout(function() {
+
+var cookieSettings = {
+    recentlyShown: {
+      expiration_minutes: 5
+    },
+    signedUp: {
+      expiration_days: 14
+    },
+    closedSignupBar: {
+      expiration_days: 5
+    }
+};
+
+var generalSettings = {
+  loadFontAwesome: false
+};
+
+if (!window.jQuery) loadJQuery();
+var $ = window.jQuery;
+  
+function addCss(fileName) {
+  var head = document.head
+    , link = document.createElement('link');
+
+  link.type = 'text/css';
+  link.rel = 'stylesheet';
+  link.href = fileName;
+
+  head.appendChild(link);
+}
+
+function appendNewsletterSignup() {
+  var signup =
+    '<style>'
+        //hide on mobile phones
+    + '  @media (max-width: 575px){ #ouibounce-modal {display:none !important;} }'
+    + '  @media (max-width: 767px){ .close-signup {top:0 !important;} }'
+    + '  @media (max-width: 1199px){ #ouibounce-modal .description {font-size:13px !important;} }'
+    + '<\/style>'
+    + '<div id="ouibounce-modal" class="animated" style="display:none; position: fixed; top: 0px; left: 0; right: 0; z-index:9500; box-shadow: 0 0 10px rgba(0,0,0,.2);">'
+      + '<div style="padding: 10px 20px 10px 20px; background: rgb(249, 249, 249); box-sizing: border-box; border: 1px solid rgb(204, 204, 204); animation-duration: 0.75s;">'
+        + '<div class="row form-row" style="margin: 0 -15px">'
+          + '<form action="https:\/\/www.artnet.com\/api\/subscriptions" class="col-xs-12 newsletter-signup-form" method="post" style="display: inline-block;">'
+            + '<input class="source" name="Source" type="hidden" value="artnetnewsbar">'
+            + '<div class="row" style="margin: 0 -15px">'
+              + '<div class="col-lg-8 col-md-7" style="padding-right:0">'
+              + '<p class="description" style="color: #888; text-align: left; margin: 10px 45px 5px 0; letter-spacing:1px; font-size:15px;">Get hand-picked stories from our editors delivered straight to your inbox every day.<\/p>'
+              + '<\/div>'
+                + '<div class="col-lg-4 col-md-5">'
+                  + '<div class="form-group">'
+                    + '<div class="errors row" style="text-align: left; width: 100%; padding: 0 15px; color: #d9534f; font-size: 12px; line-height: 20px;">'
+                    + '<div class="invalid-email" style="display: none;">'
+                    + 'Please enter a valid email address'
+                    + '<\/div>'
+                    + '<div class="signup-failed" style="display: none;">'
+                    + 'Signup failed. Please try again later.'
+                    + '<\/div>'
+                  + '<\/div>'
+                  + '<div style="position: relative; z-index: 1;">'
+                    + '<i class="fa fa-envelope" style="position: absolute; top: 11px; left: 16px; font-size: 16px;"><\/i>'
+                  + '<\/div>'
+                  + '<input class="col-xs-12 col-sm-7 signup-email" name="Email" placeholder="Enter email address" style="padding: 9px; border: 1px solid #ccc; margin: 0 10px 0 0; float: left; background: #FFF url() no-repeat scroll 7px 7px; padding-left:44px;" type="text">'
+                  + '<input class="col-xs-12 col-sm-3 btn btn-primary btn-xs newslettersignupsubmitted" style="height: 40px; color:#FFF; background-color:#000; letter-spacing: 2px; text-transform: uppercase; border:none; border-radius:0;" type="submit" value="Sign Up">'
+                + '<\/div>'
+              + '<\/div>'
+            + '<\/div>'
+          + '<\/form>'
+        + '<\/div>'
+        + '<div class="newsletter-signup-thank-you" style="text-align: left; display:none;">'
+        + 'Thank you for subscribing!'
+        + '<\/div>'
+        + '<div class="close-signup" style="position: absolute; padding: 10px 20px; top:9px; right: 0; cursor: pointer; z-index: 1; background:url(https://news.artnet.com/app/themes/artnet-news/assets/img/icon-close-gray.svg) no-repeat; width:22px; height:22px; background-size:22px 22px;"></div>'
+      + '<\/div>'
+    + '<\/div>';
+
+  $('body').append(signup);
+}
+
+function initNewsletterSignup() {    
+  // Append ouibounce to page
+  var ouibounceScript = '<script src="https://cdnjs.cloudflare.com/ajax/libs/ouibounce/0.0.12/ouibounce.js"><\/script>';
+  $('body').append(ouibounceScript);
+  
+  // Add animation css
+  addCss('https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css');
+  
+  if (generalSettings.loadFontAwesome) {
+    addCss('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+  }
+
+  // Check if ouibounce exist before calling ouibounce
+  var initOuibounce = setInterval(function() {
+    if (typeof ouibounce !== 'undefined') {
+      appendNewsletterSignup();
+  
+      var $modal = $('#ouibounce-modal');
+      SignupForm.init($modal.find('form'), function onSuccess() {
+        //hide form fields and show thank-you message
+        $modal.find('.form-row').hide();
+        $modal.find('.newsletter-signup-thank-you').fadeIn('fast');
+        
+        setNewsletterCookie('signedUp', 1);
+        
+        //after successful signup, hide the signup bar after 5 seconds
+        setTimeout(function() {
+            closeSignupBar();
+        }, 5000);
+      });
+      
+      // Handler for close signup button
+      $('body').on( 'click', '.close-signup', function(){
+        setNewsletterCookie('closedSignupBar', 1);
+        closeSignupBar();
+      });
+      
+      ouibounceAPIaccess = ouibounce(
+        $modal[0], {
+          aggressive: true,
+          sensitivity: 50,
+          callback: function() {
+            slideInModal('Down');
+          }
+        }
+      );
+        
+      clearInterval(initOuibounce);
+    }
+  }, 100);
+}
+
+function slideInModal(upOrDown) {
+    $('#ouibounce-modal')
+      .removeClass('slideOutDown slideOutUp')
+      .addClass( 'slideIn' + upOrDown );
+      
+    setNewsletterCookie('recentlyShown', 1);
+}
+
+function setNewsletterCookie(cookieName, value) {
+    //exdays*24*60*60
+    var settings = cookieSettings[cookieName];
+    var expirationMinutes = settings.expiration_minutes;
+    if (!expirationMinutes) {
+        expirationMinutes = daysToMinutes(settings.expiration_days);
+    }
+    setCookie(cookieName, value, expirationMinutes);
+}
+
+function daysToMinutes(numDays) {
+  return numDays * 24 * 60;
+}
+
+/**
+ * Generic setCookie() method, used by setNewsletterCookie().
+ * There is probably no need to call this directly - use setNewsletterCookie().
+ */
+function setCookie(cname, cvalue, expMinutes, prefix) {
+    //default prefix is 'artnet_newsletter_'
+    if (prefix == undefined) {
+      prefix = 'artnet_newsletter_';
+    }
+    var d = new Date();
+    d.setTime(d.getTime() + (expMinutes*60*1000));
+    var expires = "expires="+d.toUTCString();
+        
+    //console.log(prefix + cname + "=" + cvalue + ";" + expires + ";path=/");
+    document.cookie = prefix + cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname, prefix) {
+    //default prefix is 'artnet_newsletter_'
+    if (prefix == undefined) {
+      prefix = 'artnet_newsletter_';
+    }
+    var name = prefix + cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length,c.length);
+        }
+    }
+    return "";
+}
+
+function closeSignupBar() {
+    var $modal = $('#ouibounce-modal');
+    $modal.addClass( $modal.hasClass('slideInUp') ? 'slideOutDown': 'slideOutUp' );
+}
+
+function loadJQuery() {
+    var script = document.createElement('script');
+    script.src = "https://code.jquery.com/jquery-3.1.1.min.js";
+    script.integrity = "sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=";
+    script.crossorigin = "anonymous";
+    document.body.appendChild(script);
+}
+
+function checkCookies() {
+    //if any of these cookies are found, we don't show the modal.
+    var cookieNames = ['recentlyShown', 'signedUp', 'closedSignupBar','signup_cookie'];
+    var i = cookieNames.length,
+        found = false;
+    while (i--) {
+        if (getCookie(cookieNames[i]).length) {
+            found = true;
+            break;
+        }
+    }
+    
+    if (!found) {
+        initNewsletterSignup();
+    }
+}
+
+var SignupForm = {
+    regex: {
+        email: /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/
+    },
+
+    // Init - Anything you want to happen onLoad (usually event bindings)
+    // -------------------------------------------------------------------
+    init: function (formElement, onSuccess) {
+        var ctx = this;
+        ctx.customSerializer();
+        if (!onSuccess) {
+            throw Error('onSuccess callback is required');
+        }
+        
+        var $form = $(formElement);
+        $form.submit(function(e){
+            e.preventDefault();
+
+            var $email = $form.find('.signup-email');
+            var valid = ctx.validate( $form, $email);
+            if(valid){
+                // Hide the errors
+                $form.find('.errors').children().hide();
+                // Submit the form
+                ctx.submit($form, onSuccess);
+            } else {
+                // Focus on the email input box
+                $email.focus();
+                // Show email validation error and hide other errors
+                $form.find('.invalid-email').show().siblings().hide();
+            }
+        });
+    },
+
+    // FUNCTIONS
+    // ===================================================================
+
+    // Signup validation
+    // -------------------------------------------------------------------
+    validate: function( $form, $email ){
+        var ctx = this;
+        // Does the email match our regex?
+        return ctx.regex.email.test( $email.val() );
+    },
+
+    // Signup submission
+    // -------------------------------------------------------------------
+    submit: function($form, onSuccess) {        
+        var ctx = this;
+        $.ajax({
+            type: $form.attr('method'),
+            url: $form.attr('action'),
+            data: JSON.stringify( $form.serializeFormJSON() ),
+            // dataType: 'json',
+            contentType: 'application/json; charset=UTF-8',
+            crossDomain: true,
+            timeout: 10000 
+        })
+        .done(function(data, textStatus, jqXHR) {            
+            onSuccess();
+        })
+        .fail(function(jqXHR, textStatus){
+            // Show signup failure error and hide other errors
+            $form.find('.signup-failed').show().siblings().hide();
+        });
+    },
+
+    // Extends jQuery with a function to serialize to JSON
+    // -------------------------------------------------------------------
+    customSerializer: function(){
+        $.fn.serializeFormJSON = function () {
+            var o = {};
+            var a = this.serializeArray();
+            $.each(a, function () {
+                if (o[this.name]) {
+                    if (!o[this.name].push) {
+                        o[this.name] = [o[this.name]];
+                    }
+                    o[this.name].push(this.value || '');
+                } else {
+                    o[this.name] = this.value || '';
+                }
+            });
+            return o;
+        };
+    }
+};
+
+//show automatically after delay
+setTimeout(function(){
+    var $modal = $('#ouibounce-modal');
+    //if there are cookies indicating that we shouldn't show the signup bar, then the modal won't have been added to the page
+    //and we can just return here.
+    if (!$modal.length) {
+        return;
+    }
+    //don't run this function if the user has already triggered the modal by leaving the viewport
+    if ($modal.hasClass('slideInDown')) return;
+    
+    //position at bottom of screen
+    $modal.css({
+        top: 'auto',
+        bottom: 0
+    });
+    
+    slideInModal('Up');
+    $modal.show();
+
+},20000); //20 seconds
+
+$(function() {
+  checkCookies();
+});
+
+}, 7500);
+				}
+          } else {
+               setTimeout(function() { defernl() }, 250);
+          }
+     })();
+
