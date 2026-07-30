@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+
+message: "If you use this repository or its datasets, please cite the associated publication."
+
+title: "Pipeline Corpus: Cognitive Analysis of Gas Pipeline Discourse"
+
+type: dataset
+
+authors:
+  - family-names: Frayne
+    given-names: Craig
+    alias: craigmateo
+
+abstract: >
+  A corpus of attributed quotations and source documents accompanying the
+  article "Cognitive Analysis of Gas Pipeline Discourse." The repository
+  contains article corpora, quotation datasets, and supporting materials
+  used to compare cognitive framing across public discourse surrounding
+  the Dakota Access Pipeline and Coastal GasLink Pipeline.
+
+repository-code: "https://github.com/craigmateo/pipeline-corpus"
+
+keywords:
+  - corpus linguistics
+  - discourse analysis
+  - cognitive linguistics
+  - environmental communication
+  - pipeline discourse
+  - Dakota Access Pipeline
+  - Coastal GasLink
+  - quotation corpus
+  - ecolinguistics
+
+license: CC-BY-NC-4.0
+
+version: 1.0.0
+
+date-released: 2026-07-30
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Frayne
+      given-names: Craig
+  title: "Cognitive Analysis of Gas Pipeline Discourse"
+  journal: "Metaphor and the Social World"
+  year: 2025
+  volume: 15
+  issue: 1
+  start: 55
+  end: 76
+  doi: 10.1075/msw.23019.fra
