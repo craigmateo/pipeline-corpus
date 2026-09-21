@@ -7,11 +7,11 @@ _Author:_ Craig Frayne
 _Published in:_ _Metaphor and the Social World_, Volume 15, Issue 1, May 2025, pp. 55–76  
 _DOI:_ https://doi.org/10.1075/msw.23019.fra
 
-## Video overview
+## Video: Conference Presentation
 
 [![Watch the project overview](https://img.youtube.com/vi/98NTwRWQnxU/maxresdefault.jpg)](https://www.youtube.com/watch?v=98NTwRWQnxU)
 
-Watch the video for an introduction to the project and its goals.
+Watch the video for presentation of research results.
 
 ---
 
