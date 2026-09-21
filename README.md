@@ -3,9 +3,15 @@
 This repository accompanies the publication:
 
 **Cognitive Analysis of Gas Pipeline Discourse**  
-*Author:* Craig Frayne  
-*Published in:* *Metaphor and the Social World*, Volume 15, Issue 1, May 2025, pp. 55–76  
-*DOI:* https://doi.org/10.1075/msw.23019.fra
+_Author:_ Craig Frayne  
+_Published in:_ _Metaphor and the Social World_, Volume 15, Issue 1, May 2025, pp. 55–76  
+_DOI:_ https://doi.org/10.1075/msw.23019.fra
+
+## Video overview
+
+[![Watch the project overview](https://img.youtube.com/vi/98NTwRWQnxU/maxresdefault.jpg)](https://www.youtube.com/watch?v=98NTwRWQnxU)
+
+Watch the video for an introduction to the project and its goals.
 
 ---
 
@@ -19,18 +25,18 @@ This paper uses cognitive discourse analysis to investigate whether differing co
 
 The study draws on two web corpora constructed to capture public discourse surrounding:
 
-- **Dakota Access Pipeline (DAP)** — corpus constructed in early 2018  
+- **Dakota Access Pipeline (DAP)** — corpus constructed in early 2018
 - **Coastal GasLink Pipeline (CGP)** — corpus collected in 2021, following 2019–2020 protest events
 
 ### Corpus Construction
 
-A custom Python-based web scraper was used to gather several hundred online articles, news pieces, and commentaries based on keyword searches (e.g., *“Dakota Access Pipeline,” “Coastal GasLink Pipeline protests”*). Keyword phrases included both supportive and critical terms to balance perspectives. This process produced **229 webpages**.
+A custom Python-based web scraper was used to gather several hundred online articles, news pieces, and commentaries based on keyword searches (e.g., _“Dakota Access Pipeline,” “Coastal GasLink Pipeline protests”_). Keyword phrases included both supportive and critical terms to balance perspectives. This process produced **229 webpages**.
 
 Sources included:
 
-- Mainstream media outlets  
-- Energy industry news services (e.g., *energynow.ca*, *canadianenergycentre.ca*)  
-- Indigenous-focused news or non-profits (e.g., *theindigenousfoundation.org*)
+- Mainstream media outlets
+- Energy industry news services (e.g., _energynow.ca_, _canadianenergycentre.ca_)
+- Indigenous-focused news or non-profits (e.g., _theindigenousfoundation.org_)
 
 ### Quotation Extraction
 
@@ -38,21 +44,21 @@ Quotations were extracted automatically using regular-expression matching on quo
 
 A manual curation phase removed:
 
-- extraction errors  
-- quotations lacking identifiable speakers  
-- duplicate or near-duplicate material  
+- extraction errors
+- quotations lacking identifiable speakers
+- duplicate or near-duplicate material
 - extremely short fragments (e.g., one-word quotes)
 
 After curation, the final dataset consisted of **194 attributed quotations**, comprising:
 
-- **91 DAP quotations**  
+- **91 DAP quotations**
 - **103 CGP quotations**
 
 Each quotation was assigned:
 
-- a **unique ID** (`DAP###` or `CGP###`)  
-- the quotation text  
-- an attributed speaker  
+- a **unique ID** (`DAP###` or `CGP###`)
+- the quotation text
+- an attributed speaker
 - contextual metadata (occupation, affiliation, identity markers when available)
 
 ### Speaker Identification & Categorization
@@ -79,8 +85,8 @@ These categorized quotations form the analytical dataset for the cognitive disco
 
 The repository contains the raw text data used to construct the quotation corpus:
 
-- **corpus1/** – Dakota Access Pipeline (DAP) article corpus  
-- **corpus2/** – Coastal GasLink Pipeline (CGP) article corpus  
+- **corpus1/** – Dakota Access Pipeline (DAP) article corpus
+- **corpus2/** – Coastal GasLink Pipeline (CGP) article corpus
 
 These directories include the full-text articles from which quotations and speaker information were extracted.
 
@@ -90,7 +96,7 @@ These directories include the full-text articles from which quotations and speak
 
 If you use this repository or cite findings from the study, please use:
 
-> Frayne, C. (2025). *Cognitive analysis of gas pipeline discourse.* Metaphor and the Social World, 15(1), 55–76. https://doi.org/10.1075/msw.23019.fra
+> Frayne, C. (2025). _Cognitive analysis of gas pipeline discourse._ Metaphor and the Social World, 15(1), 55–76. https://doi.org/10.1075/msw.23019.fra
 
 ---
 
